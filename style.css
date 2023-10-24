@@ -1,0 +1,15 @@
+body{
+  margin-top: 0%;
+  margin-bottom: 0%;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url(bg.jpg);
+}
+div{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: rgb(55, 77, 78);
+  color: white
+}
